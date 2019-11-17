@@ -1,2 +1,2 @@
-# CS577-File-Sharing
+# CS577 CourseWork Project
 A File Sharing System using IPFS and BlockChain
